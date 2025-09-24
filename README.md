@@ -46,4 +46,8 @@ All input variables in “Input.xlsx”
 12. PERSONAL PRONOUNS
 13. AVG WORD LENGTH
 
-Check out the output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx”.
+Check out the output data structure spreadsheet for the format of your output, i.e. “Output_Data_Structure.csv”.
+
+### Dependencies
+1. numpy
+2. Regular expressions
